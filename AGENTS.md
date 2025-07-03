@@ -26,7 +26,7 @@ You Must NOT:
 
 Use the following command to run accessibility checks on a specific example:
 
-npm run axe -- <example-filename.html>
+npx axe-cli <example-filename.html>
 
 ## Workflow
 1. Given a component name or list of components, determine where is the source code responsible for them
